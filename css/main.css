@@ -652,7 +652,8 @@ footer{
     }
 }
 @media (max-width:600px) {
-
+    .use .container form input {
+        width:auto;
 }
 /* animation */
 @keyframes changeWidth {
